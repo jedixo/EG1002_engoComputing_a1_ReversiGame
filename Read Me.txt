@@ -1,0 +1,16 @@
+Reversi - Jake Dixon
+
+before use:
+	- manually clear your matlab workspace (i dont know why but
+	  sometimes it slows down the program)
+	- do not be alarmed if it takes a few secconds to load the 
+	  figure window, the background's resolution might be a bit
+	  high for older computers to load quickly.
+	- this function does use MATLAB's 'imresize' function.
+
+contact:
+	the program should work and i ahve tested it extensivly but if
+	their is an error i would like to know. the program does use
+	'fullfile' so it should work on mac and linux aswell.
+
+email: jake.dixon@my.jcu.edu.au
